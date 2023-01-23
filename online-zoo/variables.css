@@ -1,0 +1,53 @@
+:root {
+    --logo: 400 19px/22.8px Roboto, sans-serif;
+    --logo-tablet: 400 12.29px/15px Roboto, sans-serif;
+
+    --motto: 700 106.5px/80px Roboto, sans-serif;
+    --motto-1000: 700 85px/64px Roboto, sans-serif;
+    --motto-tablet: 700 54.29px/41px Roboto, sans-serif;
+    --motto-mobile: 700 28px/21px Roboto, sans-serif;
+
+    --h2: 400 48px/58px Roboto, sans-serif;
+    --h2-tablet: 400 42px/50px Roboto, sans-serif;
+    --h2-mobile: 400 24px/29px Roboto, sans-serif;
+    --h3: 400 36px/47px Roboto, sans-serif;
+
+    --subtitle: 400 24px/29px Roboto, sans-serif;
+    --subtitle-tablet: 400 22px/26px Roboto, sans-serif;
+    --subtitle-mobile: 400 18px/22px Roboto, sans-serif;
+    --username: 400 16px/22px Roboto, sans-serif;
+
+    --body-button: 500 16px/22px Roboto, sans-serif;
+    --body: 400 16px/22px Roboto, sans-serif;
+    --body-compressed_bold: 500 16px/21px Roboto, sans-serif;
+    --body-compressed: 400 16px/21px Roboto, sans-serif;
+
+    
+    --small_p: 300 15px/18px Roboto, sans-serif;
+    --thin_p: 100 16px/21px Roboto, sans-serif;
+
+    --donate_number: 500 72px/58px Roboto, sans-serif;
+    --donate_amount: 500 26px/36px Roboto, sans-serif;
+
+    --card-title_tablet: 500 12.47px/17px Roboto, sans-serif;
+    --card-subtitle_tablet: 300 11.69px/11px Roboto, sans-serif;
+
+    --yellow: #FFEE2E;
+    --red: #D31414;
+    --green: #4B9200;
+    --black_blue: #333B41;
+    --gray: #767474;
+    --gray_smoky: #ABABAB;
+    --gray_middle: #BDBDBD;
+    --light_gray: #F1F3F2;
+    --frosted_glass: #FDFDFF;
+
+    --orange_solid: #FE9013;
+    --orange: linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
+    --orange_grad: linear-gradient(315.75deg, rgba(254, 210, 144, 0.7) 30.06%, #FEBDAB 100.95%, rgba(254, 210, 144, 0.7) 106.36%), linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #E0D8F0 80.49%, #EAF7FE 127.9%, #EAF7FE 149.54%), linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #E0D8F0 80.49%, #EAF7FE 127.9%, #EAF7FE 149.54%);
+    --orange_hover: #E47209;
+    --orange_hover_link: linear-gradient(113.96deg, rgba(249, 128, 75, 0.8) 1.49%, rgba(254, 144, 19, 0.8) 101.44%);
+
+    --pink_grad: linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #E0D8F0 80.49%, #EAF7FE 127.9%, #EAF7FE 149.54%), linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #E0D8F0 80.49%, #EAF7FE 127.9%, #EAF7FE 149.54%);
+    --pink_grad_circle: radial-gradient(circle at bottom right, rgba(254, 189, 171, 1) 40.06%, rgba(243, 169, 248, 1) 74.74%, #E0D8F0 90.49%, #EAF7FE 123.9%, #EAF7FE 155.54%);
+  }
